@@ -1,1 +1,3 @@
-# NLP-Data-Set-Health-German-Language
+# NLP Data Set: German language data for projects concerning digital health
+
+License: CC-BY-4.0
