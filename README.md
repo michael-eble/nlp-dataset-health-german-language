@@ -6,4 +6,4 @@ License: CC-BY-4.0, see https://choosealicense.com/licenses/cc-by-4.0/
 - Provide "social media"-like natural language data for training classification models in digital health sector
 - Reason why: There are only little data sets publicly available that cover both German language and health topics
 - Each record in the text data is labelled as follows: 1=sentence is health related, 0=sentence is not health related
-- By "social media"-like it is meant that you can expect rather short sentences, misspelled words, missing punctuation etc.
+- "'Social media'-like" meanst that you can expect rather short sentences, misspelled words, missing punctuation etc.
