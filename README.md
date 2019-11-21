@@ -9,5 +9,5 @@ License: CC-BY-4.0, see https://choosealicense.com/licenses/cc-by-4.0/
 - "'Social media'-like" means that you can expect rather short sentences, misspelled words, missing punctuation etc.
 
 # Current status of the data set
-- Number of text data records with label "related to health": 302
-- Number of text data records with label "not related to health": 302
+- Number of text data records with label "related to health": 503
+- Number of text data records with label "not related to health": 503
